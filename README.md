@@ -23,12 +23,11 @@ Sketch 2
 
 ```markdown
 
-
-`View/Download the 3D model:` https://cad.onshape.com/documents/770dbdb6e5e5786d75164041/w/601f35e9fa386c2315229862/e/ac914ba21baa19614e4c4a59
+A lowcost solution to save space and enhance efficiency for the fundis.
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[View/Download the 3D model: ](https://cad.onshape.com/documents/770dbdb6e5e5786d75164041/w/601f35e9fa386c2315229862/e/ac914ba21baa19614e4c4a59).
 
 ### Jekyll Themes
 
