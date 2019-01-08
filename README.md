@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## FundiDesk
 
-You can use the [editor on GitHub](https://github.com/suhan1996/fundidesk/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+If you ever visit the kariakoo market in Tanzania, you must have met "Fundi Simu" who repairs phones for the local people. Most fundis 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
