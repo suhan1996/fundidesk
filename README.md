@@ -2,7 +2,7 @@
 
 If you ever visit the kariakoo market in Tanzania, you must have met "Fundi Simu" who repairs phones for the local people. Most fundis 
 
-
+![Image](https://github.com/suhan1996/fundidesk/blob/master/IMG_5262.jpg?raw=true)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
