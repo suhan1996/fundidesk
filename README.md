@@ -1,12 +1,19 @@
 ## FundiDesk
 
 If you ever visit the kariakoo market in Tanzania, you must have met "Fundi Simu" who repairs phones for the local people. Most fundis 
+![Image](https://github.com/suhan1996/fundidesk/blob/master/IMG_5264.jpg?raw=true)
 
 ![Image](https://github.com/suhan1996/fundidesk/blob/master/IMG_5262.jpg?raw=true)
-### Markdown
+![Image](https://github.com/suhan1996/fundidesk/blob/master/IMG_5263.jpg?raw=true)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Problems
+- Space: Fundis love to cluster, and everyone needs power supply, umbrella and other stuff, so that sometimes the space may get very crowded.
+- Storage: Fundis put everything on the top of the desk, which is messay and unorganized.
 
+
+### Our Design
+
+We designed a interier side containter and a connector for the fundi desk.
 ```markdown
 Syntax highlighted code block
 
