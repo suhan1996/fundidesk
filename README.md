@@ -31,7 +31,7 @@ A lowcost solution to save space and enhance efficiency for the fundis.
 
 ### Rapid Prototyping
 
-We used OnShape to design the 3D model, and 3D priting to print the prototype [repository settings](https://cad.onshape.com/documents/770dbdb6e5e5786d75164041/w/601f35e9fa386c2315229862/e/ac914ba21baa19614e4c4a59). You can find the STL file here and 3D print it yourself `fundidesk.stl` 
+We used OnShape to design the 3D model, and 3D priting to print the prototype [prototype](https://cad.onshape.com/documents/770dbdb6e5e5786d75164041/w/601f35e9fa386c2315229862/e/ac914ba21baa19614e4c4a59). You can find the STL file here and 3D print it yourself `fundidesk.stl` 
 
 ### Support or Contact
 
