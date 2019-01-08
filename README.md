@@ -8,18 +8,23 @@ If you ever visit the kariakoo market in Tanzania, you must have met "Fundi Simu
 - Storage: Fundis put everything on the top of the desk, which is messay and unorganized.
 
 
-### Our Design
+## Our Design
 
 We designed a interier side containter and a connector for the fundi desk.
-```markdown
 Sketch 1
 ![Image](https://github.com/suhan1996/fundidesk/blob/master/IMG_5262.jpg?raw=true)
 Sketch 2
 ![Image](https://github.com/suhan1996/fundidesk/blob/master/IMG_5263.jpg?raw=true)
 
+## 3D Prototype
+![Image](https://github.com/suhan1996/fundidesk/blob/master/Screenshot%202019-01-08%20at%2014.58.53.png?raw=true)
+
+
+
+```markdown
+
 1. Numbered
 2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](fundidesk/IMG_5255.HEIC)
