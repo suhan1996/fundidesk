@@ -23,11 +23,9 @@ Sketch 2
 
 ```markdown
 
-1. Numbered
-2. List
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](fundidesk/IMG_5255.HEIC)
+`View/Download the 3D model:` https://cad.onshape.com/documents/770dbdb6e5e5786d75164041/w/601f35e9fa386c2315229862/e/ac914ba21baa19614e4c4a59
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
